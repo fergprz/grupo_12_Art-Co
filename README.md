@@ -1,6 +1,5 @@
 # grupo_12_Art-Co
 
-Aca modifique el readme
 Crear el repositorio. https://github.com/fergprz/grupo_12_Art-Co.git
 Definir la temática del Market Place
 
@@ -31,3 +30,5 @@ Por ser uno de los principales sitios de compras de arte digital.
 Me llamo Mateo Pereyra Iraola, tengo 31 años, vivo en Tigre, Bs As con mi novia y mis 2 perros. Soy economista y trabajo en control de gestión y Tesorería en una empresa PyME de cajeros automáticos. Me gusta mucho ver y practicar deportes, comer, viajar, leer y juntarme con amigos y familia. Con muchas ganas de aprender a programar!
 
 Soy Carolina Quintoman, tengo 43 años, vivo en Villa la Angostura. Tengo dos hijos. Soy apasionada del hockey y me gusta estar al aire libre. Me gusta esto nuevo de la programación.
+
+Mi nombre es Fernando Perez, tengo 30 años, vivo en la ciudad de Buenos Aires. Ex estudiante de arquitectura y amante de la musica, siempre tuve relación laboral con las bases de datos y la logica, y en ese contexto siempre me intereso ver de que trata la programacion!
