@@ -26,3 +26,4 @@ Esperar varios días para reunirnos, deberíamos también bloquear agendas y tra
 
 Stop Doing:
 
+Dejar las cosas para último minuto y perder contacto por días.
