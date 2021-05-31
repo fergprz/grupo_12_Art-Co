@@ -1,0 +1,21 @@
+body {
+  background-color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
+  }
+
+.img {
+  height: 300px;
+  width: 300px;
+}
+
+.boton-carrito {
+  transition-duration: 0.4s;
+}
+
+.boton-carrito:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+

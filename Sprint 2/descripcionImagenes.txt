@@ -1,0 +1,165 @@
+Retrospectiva:
+
+Creo que si bien tuvimos una buena comunicación y aceptación de las ideas de los otros, nos falta organización
+para poder encarar las tareas con mayor rapidez y mejor enfoque. 
+Tenemos que ponernos más firmes con los deadlines individuales, y darnos el tiempo para hacer las correciones o 
+mejoras necesarias.
+
+
+aviador.jpg
+
+Autor: The pilot
+Titulo: Amelia Earhart 
+Año:2020
+Precio: $300
+
+hombreEnBici.jpg
+
+Autor: Juan Goyache
+Titulo: Paseo en Pamplona
+Pais: España
+Año: 2021
+Precio: $14.000
+
+insecto.jpg
+
+Autor: Dorothea Oldani
+Titulo: Naturaleza Verde
+Pais: Suiza
+Año: 2020
+Precio: $20.000
+
+especies.jpg
+
+Autor: Andra Ion
+Titulo: Barrio indio
+Pais: Rumania
+Año: 2019
+Precio: $6.500
+
+river.jpg
+
+Autor: Robert Hills
+Titulo: Skelwith Force
+Pais: Inglaterra
+Año: 1818
+Precio: $400.000
+
+langley.jpg
+
+Autor: Walter Langley
+Titulo: But Men Must Work and Women Must Weep
+Pais: Inglaterra
+Año: 1883
+Precio: $1.350.000
+
+flowers.jpg
+
+Autor: Florence Westwood Whitfield
+Titulo: Christmas Roses
+Pais: Inglaterra
+Año: 1880
+Precio: $340.000	
+
+birds.jpg
+
+Autor: Mark Wilson
+Titulo: 22 Species of Birds
+Pais: Estados Unidos 
+Año: 2020
+Precio: $50
+
+japan.jpg
+
+Autor: Ando
+Titulo: Mount Kano in Kazusa Province
+Pais: Japon
+Año: 2020
+Precio:$150
+
+
+couch.jpg
+
+Autor: Tanklife
+Titulo: Meet 'n' Veg
+Pais: Australia
+Año: 2021
+Precio:$250
+
+
+pato.jpg
+
+Autor: Tanklife
+Titulo: Well Grounded Insanity
+Pais: Australia
+Año: 2021
+Precio:$487
+
+tea.jpg
+
+Autor: Tanklife
+Titulo: Constant Dribble
+Pais: Australia
+Año: 2021
+Precio:$609
+
+plane.jpg
+
+Autor: Tanklife
+Titulo: Flight
+Pais: Australia
+Año: 2021
+Precio:$609
+
+
+
+cables.jpg
+
+Autor: Tanklife
+Titulo: Domestic Abuser
+Pais: Australia
+Año: 2021
+Precio:$850
+
+costa.jpg
+
+Autor: Lee Wailey
+Titulo: La costa
+Pais: Taiwan
+Año: 2017
+Precio: $2.500
+
+blue.jpg
+
+Autor: Nick Rivers
+Titulo: Blue waves
+Pais: Estonia
+Año: 2015
+Precio: $3.300
+
+
+shakespeare.jpg
+
+Autor: John Michael Rysbrack
+Titulo: Bust of William Shakespeare
+Pais: Inglaterra
+Año: 1760
+Precio: $800.000
+
+
+
+marbleHead.jpg
+
+Autor: Desconocido
+Titulo: Marble head of an athlete
+Pais: Italia
+Año: 200 D.C.
+Precio: $3.800.000
+
+Transire.jpg
+
+Autor: Fredrik Raddum
+Titulo: Transire
+Pais: Norway
+Año: 2017
+Precio: $600.000
